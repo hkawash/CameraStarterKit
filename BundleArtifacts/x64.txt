@@ -1,0 +1,2 @@
+MainPackage=C:\researchS\20VideoTimestamp\CameraSamples\CameraStarterKit\bin\x64\Release\CameraStarterKit_1.0.2.0_x64.appx
+SymbolPackage=C:\researchS\20VideoTimestamp\CameraSamples\CameraStarterKit\obj\x64\Release\Symbols\CameraStarterKit_1.0.2.0_x64.appxsym
